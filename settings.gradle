@@ -1,0 +1,6 @@
+rootProject.name = 'SpringBoot-demo'
+include 'SpringBoot-domain'
+include 'SpringBoot-service'
+include 'SpringBoot-common'
+include 'SpringBoot-war'
+

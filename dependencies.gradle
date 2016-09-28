@@ -1,0 +1,6 @@
+allprojects{
+    SpringVersion = "1.4.1.RELEASE"
+    MybatisSpringBoot = "1.1.1"
+    mysqlConnectorVersion = "5.1.26"
+    druidVersion = "1.0.7"
+}
